@@ -104,5 +104,4 @@ print(f"Mean Absolute Error: {mae}")
 ## Conclusion
 This program effectively analyzes exercise data to predict calories burned using XGBoost, achieving a low mean absolute error in predictions. Honestly, coding this program was tough- as I kept getting stuk at the Data Preprocessing Stage- and did not take into account that the "Gender" Column was not being added to the predictions to start off with because they were strings. However, I realized that it was not being included later by plotting everything as you can see in the collab link on the side.
 
-Until next time,
-Faizan.
+
